@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robiul Hossen</h1>
+<h1 align="center">Hi, I'm Robiul Hossen</h1>
 <h3 align="center">Passionate MERN stack developer from Bangladesh.<br>
   Dedicated, fast learner, and always improving my craft.<br>
   Exploring new possibilities—one project at a time.<br>
