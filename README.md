@@ -5,6 +5,8 @@
   I love exploring new technologies and building meaningful projects.</h3>
 
 
+![Banner](./github_banner.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
