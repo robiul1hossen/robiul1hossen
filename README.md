@@ -15,6 +15,14 @@
 <a href="https://instagram.com/robim6225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robim6225" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Currently Working On / Exploring:</h3>
+<ul align="left">
+  <li>🚀 Exploring <strong>Next.js</strong> for modern web development</li>
+  <li>🌐 Working on a <strong>e-commerce website</strong> project</li> 
+  <li>💻 Learning advanced <strong>React.js</strong> patterns and hooks</li>
+  <li>🌱 Experimenting with <strong>MERN stack</strong> projects and APIs</li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 
 #### 🚀 Frontend Development
