@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Robiul Hossen</h1>
-<h3 align="center">Passionate MERN stack developer from Bangladesh.<br>
+<h3 align="center">Passionate MERN stack developer from Bangladesh.
   Dedicated, fast learner, and always improving my craft.<br>
-  Exploring new possibilities—one project at a time.<br>
+  Exploring new possibilities—one project at a time.
   I love exploring new technologies and building meaningful projects.</h3>
 
 
